@@ -50,7 +50,7 @@ durante o curso do LikedIn Learning sobre a ferramenta Microsoft Visio.
 ## Exemplo de modelagem para Azure  
 
 <p align="center"> 
-<img src="">
+<img src="https://github.com/rosacarla/Visio2021-essential-training/blob/main/Azure-diagram.gif">
 </p>  
 
 Outros modelos para [Azure e AWS]()  
@@ -72,9 +72,10 @@ Contato: rosa.carla@pucpr.edu.br
 
 ## Links úteis  
 
-[]()  
-[]()  
-[]()  
-[]()
+[Beginner tutorial for Visio](https://support.microsoft.com/en-us/office/beginner-tutorial-for-visio-bc1605de-d9f3-4c3a-970c-19876386047c)  
+[Visio 2021 Essential Training - LinkedIn Learning](https://www.linkedin.com/learning/visio-2021-essential-training-office-2021-ltsc/create-easy-to-understand-visuals?autoplay=true)  
+[Modelos e diagramas do Visio em destaque](https://support.microsoft.com/pt-br/office/modelos-e-diagramas-do-visio-em-destaque-27d4274b-5fc2-4f5c-8190-35ff1db34aa5)  
+[Todo sobre Microsoft Visio para diagramas](https://www.lucidchart.com/pages/es/que-es-microsoft-visio)  
+[Visio Training](https://support.microsoft.com/en-us/office/visio-training-e058bcfa-1d90-4653-afc6-e84d54cf94a6)
 
 ---
