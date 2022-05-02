@@ -1,7 +1,12 @@
-# Visio 2021 Essential Training (Office 2021/LTSC)  
 
-Este repositório contém material didático com transcrições, modelos de diagramas e exercícios realizados 
-durante o curso do LikedIn Learning sobre a ferramenta Microsoft Visio 2021.  
+# <p align="center">Visio 2021 Essential Training (Office 2021/LTSC)</p>
+
+<p align="center"> 
+<img src="https://github.com/rosacarla/Visio2021-essential-training/blob/main/visio-icon.jpg" width="125">
+</p> 
+
+Este repositório contém material didático com transcrições, modelos de diagramas, referências adicionais e exercícios realizados 
+durante o curso do LinkedIn Learning sobre a ferramenta Microsoft Visio 2021.  
 
 ---  
 
